@@ -6,7 +6,7 @@
 ### Table of Content
 - [Overview](#Overview)
 - [DataSet](#Dataset)
-- [Technologies Used](#Technologies%20Used)
+- [Technologies Used](#Technologies-Used)
 - [Installations](#Installations)
 - [Conclusion](#Conclusion)
 - [References](#References)
