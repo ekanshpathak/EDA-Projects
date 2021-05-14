@@ -1,7 +1,7 @@
 ## Housing Prices Analysis of Top tier Metropolitan Cities in India
 ![india](https://user-images.githubusercontent.com/19205616/118313918-0e110500-b511-11eb-8434-b5e7bccd1867.jpg)
 
-*Designed by Freepik*
+*Image Credit: @Freepik*
 
 ### Table of Content
 - [Overview](#overview)
@@ -11,7 +11,7 @@
 - [Conclusion](#conclusion)
 - [References](#references)
 
-### Overview{#overview}
+### Overview {#overview}
 In this Project, I analyzed the factors affecting the Price of Houses in Top-tier Metropolitan cities of India, i.e. Bangalore, Delhi & Mumbai.
 
 ### Dataset
