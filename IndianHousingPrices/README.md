@@ -1,5 +1,5 @@
 ## Housing Prices Analysis of Top tier Metropolitan Cities in India
-![india](https://user-images.githubusercontent.com/19205616/118312710-61825380-b50f-11eb-9964-80ec02182116.jpg)
+![india](https://user-images.githubusercontent.com/19205616/118313918-0e110500-b511-11eb-8434-b5e7bccd1867.jpg)
 Designed by Freepik
 
 ### Table of Content
@@ -21,9 +21,9 @@ The Dataset comprises data that was scraped. It includes:
 📌 **Note:** *Since for a set of houses, nothing was mentioned about certain amenities, `9` was used to mark such values, which could indicate the absence of information about the apartment but these values don't ascertain the absence of such a feature in real life.*
 
 ### Technologies Used
-![442-4428823_python-logo-hd-png-download](https://user-images.githubusercontent.com/19205616/118312744-6f37d900-b50f-11eb-9bfd-7ab54826f679.png)
-![1_cyXCE-JcBelTyrK-58w6_Q](https://user-images.githubusercontent.com/19205616/118312758-765ee700-b50f-11eb-8077-8d5e3e4e51fd.png)
-![442-4429904_pandas-python-logo-png-pandas-python-logo-transparent](https://user-images.githubusercontent.com/19205616/118312761-78c14100-b50f-11eb-8782-e0d7398e3539.png)
-![1_I9Miy4XzfFIewVJe5GclRg](https://user-images.githubusercontent.com/19205616/118312768-7c54c800-b50f-11eb-924c-dab55ce04c33.png)
-![0_Q2P7piuSxFQIq60Z](https://user-images.githubusercontent.com/19205616/118313063-e5d4d680-b50f-11eb-9d7d-afed28b1a334.jpg)
-![EhGuwXWXgAEERcn](https://user-images.githubusercontent.com/19205616/118313070-e8373080-b50f-11eb-8d5e-6518730b0784.png)
+![download](https://user-images.githubusercontent.com/19205616/118313785-e457de00-b510-11eb-8902-2039edaa014c.png)
+![1_cyXCE-JcBelTyrK-58w6_Q](https://user-images.githubusercontent.com/19205616/118313792-e6ba3800-b510-11eb-9f3c-9ba45eecb743.png)
+![pandas](https://user-images.githubusercontent.com/19205616/118313797-e883fb80-b510-11eb-91aa-3c17f2d1bcd6.jpg)
+![0_Q2P7piuSxFQIq60Z](https://user-images.githubusercontent.com/19205616/118313806-e9b52880-b510-11eb-99ae-1ad2c9e871e8.jpg)
+![EhGuwXWXgAEERcn](https://user-images.githubusercontent.com/19205616/118313811-eb7eec00-b510-11eb-94d1-ef3bc9db4768.png)
+![1_I9Miy4XzfFIewVJe5GclRg](https://user-images.githubusercontent.com/19205616/118313813-ed48af80-b510-11eb-9b06-3204c4c7c7a3.png)
