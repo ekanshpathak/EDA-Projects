@@ -4,14 +4,14 @@
 *Designed by Freepik*
 
 ### Table of Content
-- [Overview](###overview)
-- [DataSet](###dataSet)
-- [Technologies Used](###technologies%20used)
-- [Installations](###installations)
-- [Conclusion](###conclusion)
-- [References](###references)
+- [Overview](#overview)
+- [DataSet](#dataSet)
+- [Technologies Used](#technologies%20used)
+- [Installations](#installations)
+- [Conclusion](#conclusion)
+- [References](#references)
 
-### Overview
+### Overview{#overview}
 In this Project, I analyzed the factors affecting the Price of Houses in Top-tier Metropolitan cities of India, i.e. Bangalore, Delhi & Mumbai.
 
 ### Dataset
