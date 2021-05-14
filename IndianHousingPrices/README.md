@@ -22,7 +22,7 @@ The Dataset comprises data that was scraped. It includes:
 📌 **Note:** *Since for a set of houses, nothing was mentioned about certain amenities, `9` was used to mark such values, which could indicate the absence of information about the apartment but these values don't ascertain the absence of such a feature in real life.*
 
 ### Technologies Used
-![download](https://user-images.githubusercontent.com/19205616/118313785-e457de00-b510-11eb-8902-2039edaa014c.png)
+[![download](https://user-images.githubusercontent.com/19205616/118313785-e457de00-b510-11eb-8902-2039edaa014c.png)](https://www.python.org/)
 ![1_cyXCE-JcBelTyrK-58w6_Q](https://user-images.githubusercontent.com/19205616/118313792-e6ba3800-b510-11eb-9f3c-9ba45eecb743.png)
 ![pandas](https://user-images.githubusercontent.com/19205616/118313797-e883fb80-b510-11eb-91aa-3c17f2d1bcd6.jpg)
 ![0_Q2P7piuSxFQIq60Z](https://user-images.githubusercontent.com/19205616/118313806-e9b52880-b510-11eb-99ae-1ad2c9e871e8.jpg)
