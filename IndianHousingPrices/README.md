@@ -49,5 +49,5 @@ Anyone who is eligible to spend more money to purchase a house, they will get mo
 ### References
 - To look at the Complete Visualization of the Code refer [Kaggle](https://www.kaggle.com/ekanshpathak/housingpriceindia).
 - Further GeoPy References helped me in the Project-<br>
-  [https://github.com/python-visualization/folium/issues/1105](https://github.com/python-visualization/folium/issues/1105)
+  [https://github.com/python-visualization/folium/issues/1105](https://github.com/python-visualization/folium/issues/1105) <br>
   [https://georgetsilva.github.io/posts/mapping-points-with-folium/](https://georgetsilva.github.io/posts/mapping-points-with-folium/)
