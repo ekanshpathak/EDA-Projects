@@ -1,4 +1,4 @@
-## Housing Prices Analysis of Top tier Metropolitan Cities in India
+## Housing Prices💰 Analysis of Top tier Metropolitan Cities in India
 ![india](https://user-images.githubusercontent.com/19205616/118313918-0e110500-b511-11eb-8434-b5e7bccd1867.jpg)
 
 *Image Credit: @Freepik*
@@ -21,7 +21,7 @@ The Dataset comprises data that was scraped. It includes:
 
 📌 **Note:** *Since for a set of houses, nothing was mentioned about certain amenities, `9` was used to mark such values, which could indicate the absence of information about the apartment but these values don't ascertain the absence of such a feature in real life.*
 
-### Technologies Used
+### Technologies Used 💻
 [![download](https://user-images.githubusercontent.com/19205616/118313785-e457de00-b510-11eb-8902-2039edaa014c.png)](https://www.python.org/)
 [![1_cyXCE-JcBelTyrK-58w6_Q](https://user-images.githubusercontent.com/19205616/118313792-e6ba3800-b510-11eb-9f3c-9ba45eecb743.png)](https://numpy.org/)
 [![pandas](https://user-images.githubusercontent.com/19205616/118313797-e883fb80-b510-11eb-91aa-3c17f2d1bcd6.jpg)](https://pandas.pydata.org/)
